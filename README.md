@@ -1,5 +1,5 @@
 # Forecasting with Hybrid Statistical-ML Models
-•	Examined the cases of Schneider Electric stock, the EURO STOXX 50 index and the iShares Core DAX UCITS ETF from January 2008 to September 2025.
+•	Examined the cases of Schneider Electric stock, the EURO STOXX 50 index and the iShares Core DAX UCITS ETF from January 2008 to September 2025.\\
 •	Split the data into two periods to evaluate model predictability under different market conditions.
 •	Employed three main models: ARIMA, LSTM and XGBoost.
 •	Implemented two types of hybridization: 
